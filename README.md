@@ -1,2 +1,3 @@
 # couetilc.github.io
-Personal Website
+Old Github Pages version of personal website
+Note: Out-of-date
